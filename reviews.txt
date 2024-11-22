@@ -1,0 +1,19 @@
+Product: Guitar
+Review: fabulous guitar. 4 stars because delivery was too late.
+---END OF REVIEW---
+Product: Monitor
+Review: Bad picture quality clearity not a good. You see how many deferent clearity of hp monitor and samsung monitor
+---END OF REVIEW---
+Product: Washing Machine
+Review: There is no option to set the wash time, it is taking approx 1 hour in auto mode.
+---END OF REVIEW---
+Product: Office Chair
+Review: Amazing chair!!!!! Please go for it!!!!
+---END OF REVIEW---
+Product: Laptop
+Review: This laptop has excellent performance but could improve on battery life.
+---END OF REVIEW---
+
+
+
+
